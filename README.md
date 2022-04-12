@@ -1,2 +1,2 @@
 # test
-test repso git command
+test repso git command demostration
